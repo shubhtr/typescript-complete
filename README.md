@@ -32,8 +32,10 @@ this will transpile ts files inside src folder to js files into build folder
 npm i -D ts-node
 
 // to run on vscode terminal 
+
 npx ts-node 02-simple-types.ts
 
 // to transpile to js
+
 npx tsc 02-simple-types.ts
 
